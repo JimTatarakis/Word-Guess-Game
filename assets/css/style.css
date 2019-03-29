@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-image: url("/assets/images/Hogwarts-Background-img.jpg");
+    background-size: 1440px 1000px;
+    background-repeat:no-repeat;
+    display: compact;
+}
+body{
+    font-family: 'Germania One', cursive;
+}
+
+.nav-item{
+    display: inline-block;
+    border: 1px solid whitesmoke;
+    padding: 0;
+    line-height: 5px;
+}
+.nav-item a{
+    text-decoration: none;
+    float: right;
+    color: brown;
+}
+.intro{
+    text-align: center;
+}
+main h5{
+    text-align: center; 
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+} 
+main div{
+    text-align: center;
+}
+footer h5{
+    margin-top: 20px;
+    font-size: 12px;
+}
+#music-bar{
+    display: none;
+}
